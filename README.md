@@ -16,13 +16,15 @@ To set up the project environment, follow these steps:
    ```bash
    git clone https://github.com/Zach-Maestas/planets-project.git
    cd planets-project
+   ```
 2. Install the dependencies
-   ```bash
-   npm install
-
+    ```bash
+    npm install
+    ```
 ## Running the Project
-   ```bash
-   npm start
+```bash
+npm start
+```
 
 ## Contributing
 Contributions to the project are welcome! Please fork the repository and submit a pull request with your enhancements. Ensure you follow the existing code style and add unit tests for any new or changed functionality.
